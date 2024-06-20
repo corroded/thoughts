@@ -1,4 +1,12 @@
-## What
+## Intro
+
+Disclaimer: This is not my idea alone. I have set this up across the years and in multiple companies with the help of key people in my teams. A few of these people have been instrumental in making this a success:
+
+- [https://github.com/paraxial](@paraxial)
+- [https://github.com/tomdalling](@tomdalling)
+- [https://github.com/he-wowers](@he-wowers) - He was Firewarden far too long, we actually ended up calling the role, "The Will" 
+
+### What
 
 We will assign a Firewarden every week. This person will be working full time on BAU, including support tickets. This means that in a team 3 people, there will be 3 different Firewardens and each Firewarden will only be working on BAU once every 3 weeks. As the number of team members grow, this frequency will also change - ie in a team of 10, one only gets to be a Firewarden once every 10 weeks.
 
@@ -35,6 +43,7 @@ We have a primary and secondary Firewarden. The primary is the one whose full ti
 - Makes sure that our support/BAU work will always be prioritised properly
 - Knowledge sharing - not all will be able to solve issues, so they will ask for help
 - This shields all the other team members from context switching and there is only one accountable person at a time - having everyone accountable is akin to having no one accountable
+
 
 ### Disadvantages
 
