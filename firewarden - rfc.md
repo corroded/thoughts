@@ -2,9 +2,9 @@
 
 Disclaimer: This is not my idea alone. I have set this up across the years and in multiple companies with the help of key people in my teams. A few of these people have been instrumental in making this a success:
 
-- [https://github.com/paraxial](@paraxial)
-- [https://github.com/tomdalling](@tomdalling)
-- [https://github.com/he-wowers](@he-wowers) - He was Firewarden far too long, we actually ended up calling the role, "The Will" 
+- [@paraxial](https://github.com/paraxial)
+- [@tomdalling](https://github.com/tomdalling)
+- [@he-wowers](https://github.com/he-wowers) - He was Firewarden far too long, we actually ended up calling the role, "The Will" 
 
 ### What
 
